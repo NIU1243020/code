@@ -1,0 +1,20 @@
+/.vscode
+/code text/.vscode
+/DLLs
+/Doc
+/include
+/jdk-21
+/Lib
+/libs
+/Microsoft VS Code
+/Scripts
+/tcl
+/Tools
+LICENSE.txt
+NEWS.txt
+python.exe
+python3.dll
+python311.dll
+pythonw.exe
+vcruntime140_1.dll
+vcruntime140.dll
